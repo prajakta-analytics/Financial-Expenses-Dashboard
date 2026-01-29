@@ -16,11 +16,10 @@ This Power BI dashboard analyzes personal financial expenses and income across d
 - GitHub
 
 ## 📷 Dashboard Preview
-![Dashboard](financial-expenses-dashboard.png)
+![Dashboard Preview](Screenshot%202026-01-29%20152347.png)
 
 ## 📁 Files Included
-- Financial_Expenses_Dashboard.pbix
-- financial-expenses-dashboard.png
+dashboard.png
 
 ## 👩‍💻 Created By
 Prajakta Malekar
